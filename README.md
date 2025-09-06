@@ -52,6 +52,9 @@
 
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
 
+Я выставил TTL 30, чтобы успеть набрать команды. Но скрине видно, что по прошествию времени ключи удалились.
+<img width="432" height="423" alt="image" src="https://github.com/user-attachments/assets/31d8b284-cbab-4949-9b2c-6ee379d57c48" />
+
 
 ---
 
@@ -59,6 +62,7 @@
 
 Запишите в Redis несколько ключей с любыми именами и значениями.
 
+<img width="548" height="376" alt="image" src="https://github.com/user-attachments/assets/bf13b0f9-d730-4756-bf20-2c3bec24a7c2" />
 
 ---
 
@@ -66,5 +70,6 @@
 
 Запишите в Redis ключ key5 со значением типа "int" равным числу 5. Увеличьте его на 5, чтобы в итоге в значении лежало число 10.
 
+<img width="307" height="226" alt="image" src="https://github.com/user-attachments/assets/79b7c1aa-4c5e-4c6c-9f23-c5b6cf96cf6f" />
 
 ---
